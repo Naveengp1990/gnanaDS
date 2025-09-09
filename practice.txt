@@ -1,1 +1,3 @@
 this is a Git-GitHub practice file.
+i have learnt Git-Hub to Git folder pulling data and later push to git hub folder.
+all done.
