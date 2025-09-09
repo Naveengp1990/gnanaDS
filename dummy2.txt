@@ -1,2 +1,6 @@
 this is git-hub testing file
 testing file is working file. so far so good.
+TDS- Prequisite:
+Python, Py-Libraries, Web Scraping, Advanced Excel
+SQL, Git-GitHub, PowerBI.
+HTML, CSS, JavaScript
